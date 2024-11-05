@@ -41,7 +41,7 @@
 </p>
 <h3 align="center">Connect with Me</h3>
 <p align="center">
-  <a href="mailto:mario1525@gmail.com" target="_blank">
+  <a href="mailto:mbeltran4892@gmail.com" target="_blank">
     <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -49,7 +49,7 @@
     <img align="center" src="assets/web.png" alt="website" height="50" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/mario1525/" target="_blank">
+  <a href="https://linkedin.com/in/mario-alberto-beltran-6940a3204/" target="_blank">
     <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
   </a>
 </p>
