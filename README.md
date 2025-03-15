@@ -1,5 +1,5 @@
-<p align="center">  
-</p>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Mario+1525;Software+Engineer" width="auto" height="35"/>
 <p align="center">   
 </p>
 <p align="center">
@@ -42,8 +42,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
@@ -52,17 +50,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
 </div>
-<p align="center">
-  <a href="https://github.com/mario1525/Python_Programming.git" target="_blank">
-    <img align="center" link="https://www.google.com/imgres?q=.net%20png&imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F328%2F221%2Fpng-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-thumbnail.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fes%2Fpng-xfese&docid=2NckNj2FU9qTvM&tbnid=t1SLbvatugZxkM&vet=12ahUKEwit_sXu17WLAxVWVTABHcq7L7kQM3oFCIMBEAA..i&w=348&h=348&hcb=2&ved=2ahUKEwit_sXu17WLAxVWVTABHcq7L7kQM3oFCIMBEAA" alt="C#" height="65" width="65" />
-  </a>
-</p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mario1525&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=10" alt="Top Languages"/>
 </p>
