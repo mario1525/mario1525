@@ -1,3 +1,7 @@
+<p align="center">  
+</p>
+<p align="center">   
+</p>
 <p align="center">
   <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
 </p>
