@@ -1,9 +1,7 @@
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Mario+1525;Software+Engineer" width="auto" height="35"/>
 <p align="center">   
-<p >
-I'm Mario Beltrán, an Information Engineering and Software Developer passionate about combining software engineering and data analytics to drive process improvement, systematization, and automation in business environment
-</p>
+
 </p>
 <p align="center">
   <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
@@ -35,7 +33,7 @@ I'm Mario Beltrán, an Information Engineering and Software Developer passionate
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="Azure" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="Google Cloud" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="35" alt="Power BI" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=powerbi,ubuntu&perline=16" alt="Languages" />
 
 #### ⚙️ Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
